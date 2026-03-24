@@ -1,0 +1,8 @@
+{
+    "SC":  ["SC1", "SC2", "SC3", "SC4"],
+    "TC":  ["TC1", "TC2", "TC3", "TC4"],
+    "FC":  ["FC1", "FC2", "FC3", "FC4"],
+    "RC":  ["RC1", "RC2", "RC3", "RC4"],
+    "STC": ["STC1", "STC2", "STC3", "STC4"],
+    "OP":  ["OP1", "OP2", "OP3", "OP4"]
+}
