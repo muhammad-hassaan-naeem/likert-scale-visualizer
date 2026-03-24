@@ -16,6 +16,7 @@ Built from real research experience analyzing construction industry survey data 
 ---
 
 ## Charts Generated
+<img width="3054" height="2298" alt="00_dashboard" src="https://github.com/user-attachments/assets/698c0397-3329-4c34-92c0-d93cd56ceb05" />
 
 | File | Chart Type | What it shows |
 |---|---|---|
